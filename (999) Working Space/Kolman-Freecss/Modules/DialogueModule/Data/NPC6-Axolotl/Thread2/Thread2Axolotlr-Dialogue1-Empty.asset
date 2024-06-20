@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a67ed1039c7d47c193e743c46f45eefc, type: 3}
+  m_Name: Thread2Axolotlr-Dialogue1-Empty
+  m_EditorClassIdentifier: 
+  m_PossibleFirstNodes:
+  - Key: 1
+    Value: {fileID: 11400000, guid: 665492badf1a1984d874ff2733387094, type: 2}
+  - Key: 3
+    Value: {fileID: 11400000, guid: dfc3f867afda0f04fb0cc3ee8d6bc149, type: 2}
+  - Key: 4
+    Value: {fileID: 11400000, guid: acb2976236f6e2648b54fdaf4148bb98, type: 2}
+  m_DialogueLine: {fileID: 0}
+  m_NextNode:
+  - Key: 1
+    Value: {fileID: 11400000, guid: 665492badf1a1984d874ff2733387094, type: 2}
+  - Key: 3
+    Value: {fileID: 11400000, guid: dfc3f867afda0f04fb0cc3ee8d6bc149, type: 2}
+  - Key: 4
+    Value: {fileID: 11400000, guid: acb2976236f6e2648b54fdaf4148bb98, type: 2}
+  m_Choices: []

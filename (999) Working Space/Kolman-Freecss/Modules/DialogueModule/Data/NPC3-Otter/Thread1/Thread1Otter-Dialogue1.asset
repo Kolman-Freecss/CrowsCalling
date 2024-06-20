@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a67ed1039c7d47c193e743c46f45eefc, type: 3}
+  m_Name: Thread1Otter-Dialogue1
+  m_EditorClassIdentifier: 
+  m_PossibleFirstNodes: []
+  m_DialogueLine: {fileID: 11400000, guid: b3eaeb947f1e6f442818baad142ec204, type: 2}
+  m_NextNode: []
+  m_Choices:
+  - {fileID: 11400000, guid: 8eb40692e6aff604fb7e1a84b8e95dda, type: 2}
+  - {fileID: 11400000, guid: 5656e8b27c6b39948b9beae7131fa802, type: 2}
+  - {fileID: 11400000, guid: a81c2803b6d57ed4990ca81d70e37fcb, type: 2}
+  - {fileID: 11400000, guid: 37fe1fcc3e64a484a83c7c71de61da50, type: 2}

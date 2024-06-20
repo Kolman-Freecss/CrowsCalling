@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94f857e17fc14ec2accbbbff8f3b75dd, type: 3}
+  m_Name: Thread2GyanRosling-Line2 1
+  m_EditorClassIdentifier: 
+  m_Speaker: {fileID: 11400000, guid: 9dd0761434cd4a84c96e98aba38c336f, type: 2}
+  m_Text: "Rad, this\u2019ll come in right handy. And thanks for what you said. I
+    got a security job at the Castle. I owe you!"

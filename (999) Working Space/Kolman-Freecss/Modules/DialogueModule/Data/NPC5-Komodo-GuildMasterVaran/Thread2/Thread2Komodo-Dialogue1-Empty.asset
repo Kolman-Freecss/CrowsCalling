@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a67ed1039c7d47c193e743c46f45eefc, type: 3}
+  m_Name: Thread2Komodo-Dialogue1-Empty
+  m_EditorClassIdentifier: 
+  m_PossibleFirstNodes:
+  - Key: 1
+    Value: {fileID: 11400000, guid: a1d9481f07b8261418c2a5ebfb55f8f5, type: 2}
+  - Key: 3
+    Value: {fileID: 11400000, guid: 057ebca75c4e22746b71c966dd9b9065, type: 2}
+  - Key: 4
+    Value: {fileID: 11400000, guid: 006a7a0b3627b444fa51cd832b24a6d1, type: 2}
+  m_DialogueLine: {fileID: 0}
+  m_NextNode:
+  - Key: 1
+    Value: {fileID: 11400000, guid: 6ef1328ae510b22468b675d6fa598206, type: 2}
+  - Key: 3
+    Value: {fileID: 11400000, guid: 1d899e7c08b5b974c9dddb4fafb8f569, type: 2}
+  - Key: 4
+    Value: {fileID: 11400000, guid: 97e559c39b767fd4087a2bef9719fccc, type: 2}
+  m_Choices: []
